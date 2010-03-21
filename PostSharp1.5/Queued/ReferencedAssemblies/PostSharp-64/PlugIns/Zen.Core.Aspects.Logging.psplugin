@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PlugIn xmlns="http://schemas.postsharp.org/1.0/configuration">
+	<SearchPath Directory="bin/{$Configuration}"/>
+	<TaskType Name="Zen.Core.Aspects.Logging"	
+			  Implementation="Zen.Core.Aspects.Logging.Weaver.LogTask, Zen.Core.Aspects">
+		<Dependency TaskType="CodeWeaver"/>
+	</TaskType>
+</PlugIn>

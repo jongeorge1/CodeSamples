@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueingExample", "QueueingExample\QueueingExample.csproj", "{2300ABE3-8018-4C6A-992B-F2B9429FCFFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueingExample.Console", "QueueingExample.Console\QueueingExample.Console.csproj", "{7B320E2C-982B-4F2B-B6E4-610F4201C3A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2300ABE3-8018-4C6A-992B-F2B9429FCFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2300ABE3-8018-4C6A-992B-F2B9429FCFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2300ABE3-8018-4C6A-992B-F2B9429FCFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2300ABE3-8018-4C6A-992B-F2B9429FCFFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B320E2C-982B-4F2B-B6E4-610F4201C3A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B320E2C-982B-4F2B-B6E4-610F4201C3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B320E2C-982B-4F2B-B6E4-610F4201C3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B320E2C-982B-4F2B-B6E4-610F4201C3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

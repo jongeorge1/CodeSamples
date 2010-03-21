@@ -1,0 +1,1 @@
+Zen.Core.Aspects.dll and any .psplugin files should be put here

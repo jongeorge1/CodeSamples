@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostSharpDemo.Aspects", "PostSharpDemo.Aspects\PostSharpDemo.Aspects.csproj", "{4A56BFDB-00F8-43A4-8C6C-DAF56BBCD8BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostSharpDemo.Aspects.Test", "PostSharpDemo.Aspects.Test\PostSharpDemo.Aspects.Test.csproj", "{39939258-3E7C-4C57-8716-025F8B83923C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DFBE3A0A-EE01-4D03-98AB-8EF5B47D3DD4}"
+	ProjectSection(SolutionItems) = preProject
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+		PostSharpDemo.vsmdi = PostSharpDemo.vsmdi
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = PostSharpDemo.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A56BFDB-00F8-43A4-8C6C-DAF56BBCD8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A56BFDB-00F8-43A4-8C6C-DAF56BBCD8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A56BFDB-00F8-43A4-8C6C-DAF56BBCD8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A56BFDB-00F8-43A4-8C6C-DAF56BBCD8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39939258-3E7C-4C57-8716-025F8B83923C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39939258-3E7C-4C57-8716-025F8B83923C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39939258-3E7C-4C57-8716-025F8B83923C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39939258-3E7C-4C57-8716-025F8B83923C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

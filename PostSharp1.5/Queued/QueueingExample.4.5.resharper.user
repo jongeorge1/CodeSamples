@@ -1,0 +1,101 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7B320E2C-982B-4F2B-B6E4-610F4201C3A8/f:Program.cs" caret="948" fromTop="26" />
+      <File id="2300ABE3-8018-4C6A-992B-F2B9429FCFFA/f:QueuedMethodCall.cs" caret="390" fromTop="15" />
+      <File id="2300ABE3-8018-4C6A-992B-F2B9429FCFFA/f:MethodInvocationQueueManager.cs" caret="784" fromTop="25" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="2300ABE3-8018-4C6A-992B-F2B9429FCFFA/f:MethodInvocationQueueManager.cs" caret="903" fromTop="13" />
+      <File id="2300ABE3-8018-4C6A-992B-F2B9429FCFFA/f:MethodInvocationQueueManager.cs" caret="767" fromTop="11" />
+      <File id="2300ABE3-8018-4C6A-992B-F2B9429FCFFA/f:MethodInvocationQueueManager.cs" caret="30" fromTop="2" />
+      <File id="2300ABE3-8018-4C6A-992B-F2B9429FCFFA/f:MethodInvocationQueueManager.cs" caret="1189" fromTop="25" />
+      <File id="2300ABE3-8018-4C6A-992B-F2B9429FCFFA/f:MethodInvocationQueueManager.cs" caret="580" fromTop="14" />
+      <File id="2300ABE3-8018-4C6A-992B-F2B9429FCFFA/f:MethodInvocationQueueManager.cs" caret="1222" fromTop="26" />
+      <File id="2300ABE3-8018-4C6A-992B-F2B9429FCFFA/f:MethodInvocationQueueManager.cs" caret="166" fromTop="7" />
+      <File id="2300ABE3-8018-4C6A-992B-F2B9429FCFFA/f:QueuedMethodCall.cs" caret="101" fromTop="6" />
+      <File id="2300ABE3-8018-4C6A-992B-F2B9429FCFFA/f:MethodInvocationQueueManager.cs" caret="333" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="2" />
+      <Item value="new" priority="3" />
+      <Item value="Timer" priority="2" />
+      <Item value="null" priority="2" />
+      <Item value="pauseTimer" priority="2" />
+      <Item value="Timers" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="this" priority="3" />
+      <Item value="Timeout" priority="1" />
+      <Item value="object" priority="1" />
+      <Item value="while" priority="0" />
+      <Item value="TimeSpan" priority="3" />
+      <Item value="pci" priority="0" />
+      <Item value="void" priority="1" />
+      <Item value="ThreadStaticAttribute" priority="0" />
+      <Item value="Console" priority="0" />
+      <Item value="DateTime" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="int" priority="0" />
+      <Item value="i" priority="1" />
+      <Item value="long" priority="0" />
+      <Item value="DoSomeStuff" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="ThreadPool" priority="0" />
+      <Item value="Thread" priority="0" />
+      <Item value="SerializedExecution" priority="0" />
+      <Item value="Serializable" priority="0" />
+      <Item value="Queue&lt;QueuedMethodCall&gt;" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:QueueingExample.MethodInvocationQueueManager">
+      <Item value="ProcessQueue" priority="2" />
+      <Item value="pauseTimer" priority="2" />
+      <Item value="queue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Timers.Timer">
+      <Item value="AutoReset" priority="0" />
+      <Item value="Elapsed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Timeout">
+      <Item value="Infinite" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Queue`1">
+      <Item value="Contains" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Timer">
+      <Item value="Change" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromSeconds" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Write" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToLongTimeString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.ThreadPool">
+      <Item value="QueueUserWorkItem" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
